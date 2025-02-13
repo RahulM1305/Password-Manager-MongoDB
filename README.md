@@ -59,7 +59,7 @@ Feel free to contribute by opening issues or submitting pull requests.
 ## Contact  
 📧 **Email:** [rahulamishra1305@gmail.com]  
 📌 **GitHub:** [RahulM1305](https://github.com/RahulM1305)  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/rahulm1305)  
+💼 **LinkedIn:** [Rahul Mishra](https://linkedin.com/in/rahulm1305)  
 
 ## License  
 This project is open-source and available under the [MIT License](LICENSE).  
