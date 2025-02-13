@@ -1,17 +1,18 @@
 # Password Manager (MongoDB)  
 
-A simple and efficient password manager built using React, Tailwind CSS, Node.js, Express, and MongoDB. This application allows users to store and manage their passwords in a secure and organized manner.
+A simple and efficient password manager built using **React**, **Tailwind CSS**, **Node.js**, **Express**, and **MongoDB**. This application allows users to store and manage their passwords in a secure and organized manner.  
 
-Features
-🌟 Modern UI – Built with React and styled using Tailwind CSS
-📂 CRUD Operations – Add, retrieve, update, and delete stored passwords
-📡 MongoDB Integration – Uses MongoDB for database storage
-⚡ Fast & Responsive – Optimized frontend and backend for smooth performance
+## Features  
+- 🌟 **Modern UI** – Built with React and styled using Tailwind CSS  
+- 📂 **CRUD Operations** – Add, retrieve, update, and delete stored passwords  
+- 📡 **MongoDB Integration** – Uses MongoDB for database storage  
+- ⚡ **Fast & Responsive** – Optimized frontend and backend for smooth performance  
 
-Tech Stack
-Frontend: React, Tailwind CSS
-Backend: Node.js, Express
-Database: MongoDB
+## Tech Stack  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+
 
 ## Screenshots  
 ![image](https://github.com/user-attachments/assets/4dac82fb-fd24-494c-8243-16c06876fb0c)
@@ -67,4 +68,12 @@ Feel free to contribute by opening issues or submitting pull requests.
 This project is open-source and available under the [MIT License](LICENSE).  
 
 ---
+
+
+Here's the corrected README, reflecting the actual tech stack and removing references to bcrypt and authentication:
+
+---
+
+
+
 
